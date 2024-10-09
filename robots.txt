@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://dudubegudoti.pages.dev/sitemap.xml
